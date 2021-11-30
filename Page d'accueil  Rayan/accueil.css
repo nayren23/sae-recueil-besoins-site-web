@@ -8,9 +8,15 @@ body{
 
 .container-fluid{
     height: 70px;
+    background-image: url("./vbanner.jpg");
 }
+
+.bg-light{
+    padding: 0%;
+}
+
 #logoiut{
-    width: 30%;
+    width: 20%;
 }
 
 
@@ -73,7 +79,6 @@ font-family: Arial Black  ;
     ;
 
 }
-
 
 
 
