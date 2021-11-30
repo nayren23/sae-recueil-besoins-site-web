@@ -1,0 +1,70 @@
+.selector-for-some-widget {
+    box-sizing: content-box;
+}
+body{
+    background-image: url("./vbanner.jpg");
+    background-color: beige;
+}
+
+.container-fluid{
+    height: 70px;
+}
+#logoiut{
+    width: 30%;
+}
+
+
+#logoiutfooter{
+    width: 60%;
+}
+
+#logotwitter{
+    width: 20%;
+
+}
+
+.carousel-inner{
+    height: 780px;
+
+}
+#actualite{
+    padding-top: 5%;
+    text-align: center;
+    color: aliceblue;
+}
+.card-title{
+
+font-family: Arial Black  ;
+
+}
+
+.card{
+    width: 30%;
+    display: inline-block;
+    text-align: center;
+    margin: 2%;
+    height: 50%;
+    margin-top: 6%;
+
+}
+#divcarte{
+    width: 100%;
+    height: 50%;
+
+}
+#cardun{
+    margin-left: 6%;
+    margin-top: 0%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
