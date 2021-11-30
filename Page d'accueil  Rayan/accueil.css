@@ -29,6 +29,9 @@ body{
 
 }
 
+.carousel{
+    padding-top: 20px;
+}
 .carousel-inner{
     height: 780px;
 
