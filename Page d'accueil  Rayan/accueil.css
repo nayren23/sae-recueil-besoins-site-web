@@ -1,5 +1,6 @@
 .selector-for-some-widget {
     box-sizing: content-box;
+    width: 1519.2×2093.33;
 }
 body{
     background-image: url("./vbanner.jpg");
@@ -7,7 +8,7 @@ body{
 }
 
 .container-fluid{
-    height: 70px;
+    height: 7%;
     background-image: url("./vbanner.jpg");
 }
 
@@ -30,19 +31,19 @@ body{
 }
 
 .carousel{
-    padding-top: 20px;
+    padding-top: 2%;
 }
 .carousel-inner{
-    height: 780px;
+    height: 78%;
 
 }
 #actualite{
     padding-top: 5%;
     text-align: center;
     color: aliceblue;
-    padding-top: 20px;
+    padding-top: 2%;
     border-bottom:1px solid blanchedalmond;
-    margin-top: 60px;
+    margin-top: 4%;
 
 }
 .card-title{
@@ -64,8 +65,8 @@ font-family: Arial Black  ;
 #divcarte{
     width: 100%;
     height: 50%;
-    margin-top: 80px;
-    margin-bottom: 80px ;
+    margin-top: 5%;
+    margin-bottom: 5% ;
 
 }
 #cardun{
