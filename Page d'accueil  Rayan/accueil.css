@@ -10,6 +10,7 @@ body{
 
 
 
+
 /***********************************************************************************NAV********************************************************************************/
 .container-fluid{
     height: 7%;
@@ -24,10 +25,18 @@ body{
     padding: 0%;
 }
 
+@media screen and (min-width: 990px){
+    #naviut{
+        width: 300px;
+    }
+}
+
 #logoiut{
     width: 20%;
     padding-right: 10px;
 }
+
+
 
 #navbarDropdown{
     text-align: center;
@@ -51,6 +60,9 @@ margin-left: 2.5%;
     height: 600px;
 }
 
+.paragraphecarrousel{
+    font-size: 40px;
+}
 /***************************************************************************FIN Carroussel****************************************************************************/
 
 
@@ -58,10 +70,11 @@ margin-left: 2.5%;
 
 /***************************************************************************Titre actualite****************************************************************************/
 #actualite{
-    padding-top: 5%;
+    padding-top: 2px;
     text-align: center;
     color: aliceblue;
     padding-top: 2%;
+    padding-bottom: 30px;
     border-bottom:1px solid blanchedalmond;
     margin-top: 4%;
 }
@@ -96,6 +109,7 @@ margin-left: 2.5%;
 
 #cardun{
     height: 50%;
+    height: 479px;
 }
 
 .card-text{
@@ -107,9 +121,6 @@ margin-left: 2.5%;
 
 
 /*******************************************************************************Footer********************************************************************************/
-#footer{
-}
-
 #logoiutfooter{
     width: 60%;
 }
