@@ -110,8 +110,13 @@ margin-left: 2.5%;
 }
 
 #cardun{
-    height: 50%;
-    height: 479px;
+    height: 480px;
+    
+}
+
+#button1{
+    margin-top: 25px;
+
 }
 
 .card-text{
