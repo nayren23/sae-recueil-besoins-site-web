@@ -1,8 +1,7 @@
 /***********************************************************************************BODY********************************************************************************/
 body{
-    background-image: url("./Images page accueil/fondecrans2.jpg");  /*url("./Images page accueil/vbanner.jpg");*/
-    background-color: beige;
-    background-size: 150%;
+    background-image: linear-gradient(180deg, #dabe3f 0, #e1b335 10%, #e7a72c 20%, #ec9a25 30%,
+    #f08c21 40%, #f37b1f 50%, #f56922 60%, #f75528 70%, #f93f31 80%, #fa223b 90%, #fa0046 100%);
     background-attachment: fixed;
 }
 /******************************************************************************FIN BODY********************************************************************************/
@@ -14,11 +13,9 @@ body{
 /***********************************************************************************NAV********************************************************************************/
 .container-fluid{
     height: 7%;
-    background-image: url("./Images page accueil/fondecrans2.jpg");     /*url("./Images page accueil/vbanner.jpg");*/
-    background-size: 150%;
+    background-image: linear-gradient(180deg, #dabe3f 0, #e1b335 10%, #e7a72c 20%, #ec9a25 30%,
+    #f08c21 40%, #f37b1f 50%, #f56922 60%, #f75528 70%, #f93f31 80%, #fa223b 90%, #fa0046 100%);
     background-attachment: fixed;
-
-
 }
 
 .bg-light{
