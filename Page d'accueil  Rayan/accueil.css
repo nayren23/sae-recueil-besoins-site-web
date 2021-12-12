@@ -1,8 +1,7 @@
 /***********************************************************************************BODY********************************************************************************/
 body{
-    background-image: linear-gradient(180deg, #dabe3f 0, #e1b335 10%, #e7a72c 20%, #ec9a25 30%,
-    #f08c21 40%, #f37b1f 50%, #f56922 60%, #f75528 70%, #f93f31 80%, #fa223b 90%, #fa0046 100%);
-    background-attachment: fixed;
+    background-image: linear-gradient(345deg, #4f3f66 0, #3b2e5f 25%, #1f1f59 50%, #001253 75%, #00004e 100%);
+        background-attachment: fixed;
 }
 /******************************************************************************FIN BODY********************************************************************************/
 
@@ -13,8 +12,7 @@ body{
 /***********************************************************************************NAV********************************************************************************/
 .container-fluid{
     height: 7%;
-    background-image: linear-gradient(180deg, #dabe3f 0, #e1b335 10%, #e7a72c 20%, #ec9a25 30%,
-    #f08c21 40%, #f37b1f 50%, #f56922 60%, #f75528 70%, #f93f31 80%, #fa223b 90%, #fa0046 100%);
+    background-image: linear-gradient(345deg, #4f3f66 0, #3b2e5f 25%, #1f1f59 50%, #001253 75%, #00004e 100%);
     background-attachment: fixed;
 }
 
@@ -33,14 +31,9 @@ body{
     padding-right: 10px;
 }
 
-#logoiut1{
-    width: 60%;
-    padding-right: 10px;
-}
 
-#navbarSupportedContent{
-    padding-left: 400px;
-}
+
+
 
 
 
