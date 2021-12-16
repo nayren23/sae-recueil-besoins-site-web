@@ -139,3 +139,108 @@ body{
     width: 20%;
 }
 /**************************************************************************FIN Footer********************************************************************************/
+
+
+
+/***************************************************************************Titre actualite****************************************************************************/
+#actualite{
+    padding-top: 5%;
+    text-align: center;
+    color: aliceblue;
+    padding-top: 2%;
+    border-bottom:2.5px solid blanchedalmond;
+    margin-top: 4%;
+    padding-bottom: 30px;
+}
+/**************************************************************************FIN Titre actualite*************************************************************************/
+
+
+
+
+/*************************************************************************CARD POUR ACTUALITES*************************************************************************/
+.card-title{
+    font-family: Arial Black  ;
+}
+
+.card{
+    width: 30%;
+    display: inline-block;
+    text-align: center;
+    height: 50%;
+    margin-top: 20px;
+}
+
+#divcarte{
+    width: 100%;
+    height: 50%;
+    margin-top: 5%;
+    margin-bottom: 5% ;
+
+    display: inline-flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+#cardun{
+    height: 50%;
+}
+
+.card-text{
+    color:#8f8f8f;
+}
+/*********************************************************************FIN CARD POUR ACTUALITES*************************************************************************/
+
+
+
+img{
+    width: 20%;
+}
+
+#divcarte img #mail{
+    width: 10%;
+}
+
+
+.map-container-2{
+    overflow:hidden;
+
+    }
+
+ .map-container-2 iframe{
+height:100%;
+width:81.5%;
+
+  
+ }
+
+.row{
+    margin-bottom: 70px;
+    margin-top: 70px;
+
+}
+
+#contact{
+    text-decoration: none;
+}
+
+
+.col-md-12{
+    margin-left: 9.3%;
+}
+
+
+.mail{
+    width: 14.5%;
+    float: left;
+}
+
+.etude{
+    width: 14.5%;
+    float: left;
+
+}
+
+.maps{
+    width: 12%;
+    float: left;
+}
